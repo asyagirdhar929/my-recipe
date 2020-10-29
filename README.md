@@ -3,4 +3,4 @@
 # Go to ingredients.md to see the ingredients.
 # Go to recipe.md to see the recipe.
 # Just follow the recipe and Voila! you have your jalebi.
-# Make sure to sahre this recipe with everyone.
+# Make sure to share this recipe with everyone.
